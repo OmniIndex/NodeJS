@@ -1,0 +1,11 @@
+{
+  "name": "omniindex",
+  "version": "1.0.0",
+  "description": "The OmniIndex BlockChain Connector",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests/omniindextest.js"
+  },
+  "author": "OmniIndex inc. 2022",
+  "license": "ISC"
+}
